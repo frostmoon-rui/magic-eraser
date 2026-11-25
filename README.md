@@ -27,3 +27,7 @@ The accompanying desktop folder contains a Windows installer, an offline executa
 
 - [LaMa research and original code](https://github.com/advimman/lama).
 - [IOPaint model package and implementation](https://github.com/Sanster/IOPaint/blob/main/iopaint/model/lama.py).
+
+## Project notes
+
+- [Magic Eraser project note](https://frostmoonrui.com/en/notes/magic-eraser/)
